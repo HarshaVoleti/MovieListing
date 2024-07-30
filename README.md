@@ -78,15 +78,15 @@ After installing our app.
 Here in this screen, you can create new account with unique username, emailId and password. and if you already have an account, you can login through the login screen.
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/login_screen.png" width="200" height="400" >
-<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/signup_screen.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/MovieListing/blob/main/screenshots/login_screen.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/MovieListing/blob/main/screenshots/signup_screen.png" width="200" height="400" >
 </div>
 
 #### <h3><ins>Home Screen.</ins></h3>
  User have to enter user name, password and  hit Login button. if doesn't have account create on in the singup screen.
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://github.com/HarshaVoleti/WeatherApp/blob/main/screenshots/home_screen.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/MovieListing/blob/main/screenshots/home_screen.png" width="200" height="400" >
 </div>
 
 

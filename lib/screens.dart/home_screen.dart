@@ -124,7 +124,7 @@ class _HomeScreenState extends State<HomeScreen> {
               final movie = provider.movies[index];
 
               return Container(
-                height: 235,
+                height: 250,
                 color: Colors.white,
                 alignment: Alignment.topCenter,
                 child: Column(
